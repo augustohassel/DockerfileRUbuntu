@@ -6,6 +6,6 @@
 * __R Version__: 4.0.0 - 'Arbor Day'
 * __DB__: MSSQL Drivers
 
-** Installation
+## Installation
 
 * FROM augustohassel/r_ubuntu
